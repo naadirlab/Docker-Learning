@@ -1,1 +1,3 @@
 venv/
+# AWS CLI Installer
+AWSCLIV2.pkg
