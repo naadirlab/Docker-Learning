@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 # Connect to the Redis database
 redis_client = redis.Redis(
-        host='localhost',
+        host='redis',
         port=6379,
         decode_responses=True
     ) 

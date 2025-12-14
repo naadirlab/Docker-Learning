@@ -1,0 +1,14 @@
+version: '3.11'
+
+services:
+  web:
+    image: flask-redis:v1
+    ports:
+      - "5002:5002"
+    depends_on:
+      - redis
+
+  redis:
+    image: redis:alpine
+    ports:
+      - "6379:6379"  
