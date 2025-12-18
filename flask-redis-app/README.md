@@ -119,4 +119,5 @@ The application is accessible locally at http://127.0.0.1:5002.
 ## Result
 
 A fully functional Flask application that keeps track of visitor counts, connected to a Redis database, all running in Docker containers.
-![alt text](screenshots/Results.png)
+
+![alt text](../screenshots/Results.png)
