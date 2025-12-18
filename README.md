@@ -143,6 +143,7 @@ A functional Flask application successfully running in a Docker container and lo
 
 ---
 
+
 ## Flask-Redis App
 This project shows step by step how to use Redis to store and retrieve data.
 It demonstrates a multi-container setup with Docker Compose, including a Flask web app, a Redis database, and an Nginx load balancer for handling multiple app instances.
