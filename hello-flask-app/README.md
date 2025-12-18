@@ -90,7 +90,7 @@ docker build -t hello-flask:latest .
 docker run -d -p 5002:5002 hello-flask:latest
 ```
 
-![screenshots/Hello World.png](<screenshots/Hello World.png>)
+![alt text](<../screenshots/Hello World.png>)
 
 Screenshot showing the Flask app running successfully in a Docker container and accessible via the local browser on port 5002.
 
