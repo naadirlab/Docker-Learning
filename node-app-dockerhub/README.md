@@ -3,6 +3,8 @@
 This project demonstrates a simple Node.js application using Express.
 It shows how to containerise a Node app with Docker, and optimise the image using multi-stage builds and a lightweight base image. Finally, this project shows how to push your images to DockerHub.
 
+![alt text](../screenshots/Docker_Reduce_Size.png)
+
 ## Node & Express Setup
 
 Install Node.js (macOS):
